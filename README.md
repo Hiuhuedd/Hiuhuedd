@@ -13,7 +13,8 @@
 <br />
 **Connect with me:
  <br /> 
- <br />
+ <br /> 
+ **![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)**
 ![Design and Development](https://github.com/Hiuhuedd/Hiuhuedd/blob/main/WhatsApp%20Video%202021-11-23%20at%202.36.09%20PM.gif)
 <br />
 
