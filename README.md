@@ -8,10 +8,11 @@
 <br />
 # Edward Hiuhu
 <br />
-**I'm Edward from Kenya, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and Next.js, as well as work backend node.js. I also enjoy ui, ux, and design in general  
+I'm Edward from Kenya, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and Next.js, as well as work backend node.js. I also enjoy ui, ux, and design in general  
+<br /> 
 <br />
 Connect with me:
-  
+  **<br />**<br />****
 ![Design and Development](https://github.com/Hiuhuedd/Hiuhuedd/blob/main/WhatsApp%20Video%202021-11-23%20at%202.36.09%20PM.gif)
 <br />
 
