@@ -2,16 +2,16 @@
 
 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-**# Adrian Twarog**
-**I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](**https://codestackr.com**https://www.windtech.site/index.html)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Hiuhu_edward?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Hiuhu_edward) 
+<br />
+<br />
+**# Edward Hiuhu**
+**I'm Edward from Kenya, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and Next.js, as well as work backend node.js. I also enjoy ui, ux, and design in general
 ### Connect with me:
   
  **![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
 
-# Adrian Twarog
-I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
 
 ## Skills and Experience
 * ⚛ React
