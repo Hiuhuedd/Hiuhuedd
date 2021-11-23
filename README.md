@@ -18,7 +18,7 @@
 * ⚛ React
 * 📱 React Native
 * 💻 HTML, CSS, JS
-
+**[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)**
 ## Examples of Work
 <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
 © 2021 GitHub, Inc.
